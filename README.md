@@ -9,11 +9,9 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/C-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-4479A1?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/EdgeTPU-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp </p>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
+  
 
   <p align='center'> 아직 수정 중 ^^ </p>
 </p>
