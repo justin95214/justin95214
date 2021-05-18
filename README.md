@@ -14,6 +14,6 @@
 
 |  <center> 연차 </center> |  <center> 연구 프로젝트 </center> |  <center> Github Address </center> |
 |:--------|:--------:|--------:|
-|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
-|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
+|**cell 1x1**sadfdf | <center>cell 1x2 </center> |*cell 1x3* |
+|**cell 2x1** sdafdf| <center>cell 2x2 </center> |*cell 2x3* |
 |**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
