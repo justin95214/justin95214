@@ -16,7 +16,7 @@
 
 |  <center> **연차** </center> |  <center> **연구 프로젝트** </center> |  <center> **Github Address** </center> |
 |:----------|:----------|----------:|
-|2019. 07. ~<br>2019. 07. |  EyeTracking알고리즘을 활용한 smart glass  |*cell 1x3* |
+|2019. 07. ~<br>2019. 07. |  EyeTracking알고리즘을 활용한 smart glasses  |*cell 1x3* |
 |2019. 07. ~<br>2019. 10. |  멜웨어(Malware) 상세항목 12가지 K-근접 이웃알고리즘을 통한 분류  |*cell 1x3* |
 |2019. 06. ~<br>2020. 02. |  엣지컴퓨터 기반 오프로딩기법(OffLoading)을 위한 CNN모델 최적화 레이어 최적점 연구  |*cell 2x3* |
 |2020. 03. ~<br>2021. 01. |  EdgeTPU의 vgg16기반 모델 Post-training Quantization 및 tflite모델 ONNX 플랫폼 호환성 연구  |*cell 2x3* |
