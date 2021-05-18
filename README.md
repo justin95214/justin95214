@@ -12,9 +12,8 @@
   <p align='center'> 아직 수정 중 ^^ </p>
 </p>
 
-|  <center> 연차 </center> |  <center> 연구 프로젝트 </center> |  <center> Github Address </center> |Cancel changes
-|:----------|:-------------:|--------:|
-
+|  <center> 연차 </center> |  <center> 연구 프로젝트 </center> |  <center> Github Address </center> |
+|:----------|:-------------|--------:|
 | 2019. 07. ~ 2019. 07. 11. |  EyeTracking알고리즘을 활용한 smart glass  |*cell 1x3* |
 | 2019. 07. ~ 2019. 10. 28. |  멜웨어(Malware) 상세항목 12가지 K-근접 이웃알고리즘을 통한 분류  |*cell 1x3* |
 | 2019. 06. ~ 2020. 02. 29. |  엣지컴퓨터 기반 오프로딩기법(OffLoading)을 위한 CNN모델 최적화 레이어 최적점 연구  |*cell 2x3* |
@@ -22,4 +21,3 @@
 | 2020. 04. ~ 2021. 10. 28. |  바이너리 기반 컴파일러별 옵션별 스트립 바이너리 함수정보(함수 시작 과 끝) 분석 연구  |*cell 2x3* |
 | 2021. 01. ~ 2021. 03. 31. |  X-ray 이미지 활용한 상세한 폐렴(COVID-19라벨링 포함) 분류 및 RetinaNet을 활용한 Object Detection  |*cell 2x3* |
 | 2020. 02. ~ ing           |  초분광 이미지 픽셀 분류를 위한 이산 범위 기반의 최적 밴드 선택(Band Selection) 연구  |*cell 2x3* |
-|:----------|:-------------|--------:|
