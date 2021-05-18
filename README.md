@@ -12,7 +12,7 @@
   <p align='center'> 아직 수정 중 ^^ </p>
 </p>
 
-|  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
+|  <center> 연차 </center> |  <center> 연구 프로젝트 </center> |  <center> Github Address </center> |
 |:--------|:--------:|--------:|
 |**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
 |**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
