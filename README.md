@@ -8,11 +8,11 @@
   <a href="#demo">
     <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
-  |   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
+|:--------|:--------:|--------:|
+|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
+|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
+|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
   <p align='center'> 아직 수정 중 ^^ </p>
 </p>
 
