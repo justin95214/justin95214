@@ -15,6 +15,5 @@
 |  <center> 연차 </center> |  <center> 연구 프로젝트 </center> |  <center> Github Address </center> |
 |:--------|:--------:|--------:|
 | 2019. 07. ~ 2019. 07. 11. | <center> EyeTracking알고리즘을 활용한 smart glass </center> |*cell 1x3* |
-| 2019. 06. ~ 2020. 02. 29. | <center> 엣지컴퓨터를 기반한 오프로딩기법(OffLoading)을 위한
-  CNN모델 최적화 레이어 최적점 연구 </center> |*cell 2x3* |
+| 2019. 06. ~ 2020. 02. 29. | <center> 엣지컴퓨터를 기반한 오프로딩기법(OffLoading)을 위한 \ CNN모델 최적화 레이어 최적점 연구 </center> |*cell 2x3* |
 | 2020. 07. ~ 2020. 07. 11. | <center>cell 3x2 </center> |*cell 3x3* |
