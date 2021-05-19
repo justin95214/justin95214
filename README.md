@@ -27,7 +27,7 @@
 |2020. 03. ~<br>2021. 01. |  [EdgeTPU의 vgg16기반 모델 Post-training Quantization 및 tflite모델 ONNX 플랫폼 호환성 연구](https://github.com/justin95214/ONNX-Convert)  |[한국정보과학회 KSC2020](https://www.earticle.net/Article/A391000) |
 |2020. 04. ~<br>2021. 10. |  [Long-Tailed 바이너리 기반 컴파일러별 옵션별 스트립 바이너리 함수정보(함수 시작 과 끝) 분석 연구](https://github.com/justin95214/Extraction-Function-Info-Stripped-Binaries-using-BiRNN)  |[거재중] |
 |2021. 01. ~<br>2021. 03. |  [X-ray 이미지 활용한 상세한 폐렴(COVID-19라벨링 포함) 분류 및 RetinaNet을 활용한 Object Detection](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection)  |[거재중]|
-|2020. 02. ~<br>ing       |  초분광 이미지 픽셀 분류를 위한 이산 범위 기반의 최적 밴드 선택(Band Selection) 연구  |[거재중]|
+|2020. 02. ~<br>ing       |  [초분광 이미지 픽셀 분류를 위한 이산 범위 기반의 최적 밴드 선택(Band Selection) 연구](https://github.com/justin95214/HyperSpectral-Image-Band-Selection-Algorithm)  |[거재중]|
 
 # 서브프로젝트 
 |  <center> **연차** </center> |  <center> **프로젝트** </center> |
