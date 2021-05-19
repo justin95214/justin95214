@@ -14,6 +14,8 @@
   <p align='center'> 아직 수정 중 ^^ </p>
 </p>
 
+# 프로젝트 현황
+
 |  <center> **연차** </center> |  <center> **연구 프로젝트** </center> |  <center> **PAPER** </center> |
 |:----------|:----------|----------:|
 |2019. 07. ~<br>2019. 07. |  [EyeTracking알고리즘을 활용한 smart glasses](https://github.com/justin95214/Eyetracking_SmartGlass)  |[추계 멀티미디어학회](https://github.com/justin95214/Eyetracking_SmartGlass/tree/master/%EB%85%BC%EB%AC%B8%2C%20%ED%8F%AC%EC%8A%A4%ED%84%B0%2C%20%ED%8C%9C%ED%94%8C%EB%A0%9B%2C%20%EB%B3%B4%EA%B3%A0%EC%84%9C) |
