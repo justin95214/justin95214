@@ -31,7 +31,7 @@
 
 # 서브프로젝트 
 |  <center> **연차** </center> |  <center> **프로젝트** </center> |
-|:----------|:----------|----------:|
+|:----------|:----------|
 |2019. 04. ~<br>2019. 12. |  [창업 패키지-SHALLY 개발 담당](https://github.com/justin95214/HTML-PHP-manager-homepage)  |
 
 
