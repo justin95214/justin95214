@@ -13,8 +13,9 @@
   </a>
   <p align='center'> 아직 수정 중 ^^ </p>
 </p>
-# CV
- <a href="https://drive.google.com/file/d/1vEpvAswI7v8M56rOgQ3i7VlVsyPGGRJ9/view?usp=sharing">CV</a>
+
+# CV//
+<a href="https://drive.google.com/file/d/1vEpvAswI7v8M56rOgQ3i7VlVsyPGGRJ9/view?usp=sharing">CV</a>
 
 # 프로젝트 현황
 
