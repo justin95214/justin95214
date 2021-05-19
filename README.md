@@ -14,7 +14,7 @@
   <p align='center'> 아직 수정 중 ^^ </p>
 </p>
 
-|  <center> **연차** </center> |  <center> **연구 프로젝트** </center> |  <center> **Github Address** </center> |
+|  <center> **연차** </center> |  <center> **연구 프로젝트** </center> |  <center> **PAPER** </center> |
 |:----------|:----------|----------:|
 |2019. 07. ~<br>2019. 07. |  [EyeTracking알고리즘을 활용한 smart glasses](https://github.com/justin95214/Eyetracking_SmartGlass)  |*cell 1x3* |
 |2019. 07. ~<br>2019. 10. |  [멜웨어(Malware) 상세항목 12가지 K-근접 이웃알고리즘을 통한 분류](https://github.com/justin95214/Malware_detection)  |*cell 1x3* |
