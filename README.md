@@ -21,9 +21,9 @@
 
 |  <center> **연차** </center> |  <center> **연구 프로젝트** </center> |  <center> **PAPER** </center> |
 |:----------|:----------|----------:|
-|2019. 07. ~<br>2019. 07. |  [EyeTracking알고리즘을 활용한 smart glasses](https://github.com/justin95214/Eyetracking_SmartGlass) - EyeTracking, SVD 알고리즘 분석  |[추계 멀티미디어학회](https://github.com/justin95214/Eyetracking_SmartGlass/tree/master/%EB%85%BC%EB%AC%B8%2C%20%ED%8F%AC%EC%8A%A4%ED%84%B0%2C%20%ED%8C%9C%ED%94%8C%EB%A0%9B%2C%20%EB%B3%B4%EA%B3%A0%EC%84%9C) |
+|2019. 07. ~<br>2019. 07. |  [EyeTracking알고리즘을 활용한 smart glasses](https://github.com/justin95214/Eyetracking_SmartGlass) |[추계 멀티미디어학회](https://github.com/justin95214/Eyetracking_SmartGlass/tree/master/%EB%85%BC%EB%AC%B8%2C%20%ED%8F%AC%EC%8A%A4%ED%84%B0%2C%20%ED%8C%9C%ED%94%8C%EB%A0%9B%2C%20%EB%B3%B4%EA%B3%A0%EC%84%9C) |
 |2019. 07. ~<br>2019. 10. |  [멜웨어(Malware) 상세항목 12가지 K-근접 이웃알고리즘을 통한 분류](https://github.com/justin95214/Malware_detection)  | 학사졸업논문 |
-|2019. 06. ~<br>2020. 02. |  [엣지컴퓨터 기반 오프로딩기법(OffLoading)을 위한 CNN모델 최적화 레이어 최적점 연구](https://github.com/justin95214/EgeTPU-GPU-Coral-Accelerator) - 엣지TPU On-Device Layer별 전력측정  |[한국정보과학회 KCC2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874644) |
+|2019. 06. ~<br>2020. 02. |  [엣지컴퓨터 기반 오프로딩기법(OffLoading)을 위한 CNN모델 최적화 레이어 최적점 연구](https://github.com/justin95214/EgeTPU-GPU-Coral-Accelerator)  |[한국정보과학회 KCC2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874644) |
 |2020. 03. ~<br>2021. 01. |  [EdgeTPU의 vgg16기반 모델 Post-training Quantization 및 tflite모델 ONNX 플랫폼 호환성 연구](https://github.com/justin95214/ONNX-Convert)  |[한국정보과학회 KSC2020](https://www.earticle.net/Article/A391000) |
 |2020. 04. ~<br>2021. 10. |  [Long-Tailed 바이너리 기반 컴파일러별 옵션별 스트립 바이너리 함수정보(함수 시작 과 끝) 분석 연구](https://github.com/justin95214/Extraction-Function-Info-Stripped-Binaries-using-BiRNN)  |[거재중] |
 |2021. 01. ~<br>2021. 03. |  [X-ray 이미지 활용한 상세한 폐렴(COVID-19라벨링 포함) 분류 및 RetinaNet을 활용한 Object Detection](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection)  |[거재중]|
