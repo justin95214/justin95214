@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width="3000"&section=header&text=Duhyeuk%20Chang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Proile%20CV%20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width="3000"&section=header&text=Duhyeuk%20Chang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Profile%20CV%20&descAlignY=51&descAlign=62)
 <p align='center'> Division of Computer Engineering </p>
  
  <p align="center">
