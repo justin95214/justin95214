@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C/C++-4479A1?style=flat-square&logo=C/c++&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML-2C2255?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp </p>
-<p align='center'> ML DL CV LightWeight Algorithm </p>
+<p align='center'> ML DL CV LightWeight & Optimization Algorithm </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
     <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
