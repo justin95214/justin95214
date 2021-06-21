@@ -40,9 +40,11 @@
 |2019. 06. ~<br>2020. 02. |  [엣지컴퓨터 기반 오프로딩기법(OffLoading)을 위한 CNN모델 최적화 레이어 최적점 연구](https://github.com/justin95214/EgeTPU-GPU-Coral-Accelerator)  |[한국정보과학회 KCC2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874644) |
 |2020. 03. ~<br>2021. 01. |  [EdgeTPU의 vgg16기반 모델 Post-training Quantization 및 tflite모델 ONNX 플랫폼 호환성 연구](https://github.com/justin95214/ONNX-Convert)  |[한국인터넷방송통신학회 저널 *KCI등재](https://www.earticle.net/Article/A391000) |
 |2020. 04. ~<br>2021. 10. |  [Long-Tailed 바이너리 기반 컴파일러별 옵션별 스트립 바이너리 함수정보(함수 시작 과 끝) 분석 연구](https://github.com/justin95214/Extraction-Function-Info-Stripped-Binaries-using-BiRNN)  |[한국인터넷방송통신학회 저널 거재중] |
+|2020. 02. ~<br>ing       |  [초분광 이미지 픽셀 분류를 위한 이산 범위 기반의 최적 밴드 선택(Band Selection) 연구](https://github.com/justin95214/HyperSpectral-Image-Band-Selection-Algorithm)  |[한국정보과학회 KCC2021](https://www.kiise.or.kr/conference/kcc/2021/)|
+
 |<center> **연차** </center> |  <center> **의학 연구 프로젝트** </center> |  <center> **PAPER** </center> |
 |2021. 01. ~<br>2021. 03. |  [X-ray 이미지 활용한 상세한 폐렴(COVID-19라벨링 포함) 분류 및 RetinaNet을 활용한 Object Detection](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection)  |[한국정보과학회 KCC2021](https://www.kiise.or.kr/conference/kcc/2021/)|
-|2020. 02. ~<br>ing       |  [초분광 이미지 픽셀 분류를 위한 이산 범위 기반의 최적 밴드 선택(Band Selection) 연구](https://github.com/justin95214/HyperSpectral-Image-Band-Selection-Algorithm)  |[한국정보과학회 KCC2021](https://www.kiise.or.kr/conference/kcc/2021/)|
+
 
 
 |  <center> **연차** </center> |  <center> ** Personal 연구 프로젝트 ** </center> |  <center> **PAPER** </center> |
