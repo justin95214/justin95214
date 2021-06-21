@@ -19,6 +19,8 @@
 
 
 ![JAMES's stats](https://github-readme-stats.vercel.app/api?username=justin95214&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin95214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # 경력
 |  <center> **연차** </center> |  <center> **내역** </center> |
