@@ -15,7 +15,7 @@
 </p>
 
 # CV
-<a href="https://drive.google.com/file/d/1vEpvAswI7v8M56rOgQ3i7VlVsyPGGRJ9/view?usp=sharing">CV</a>
+<a href="https://github.com/justin95214/justin95214/blob/main/cv.pdf">CV</a>
 
 
 ![JAMES's stats](https://github-readme-stats.vercel.app/api?username=justin95214&show_icons=true&theme=radical)
