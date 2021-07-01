@@ -46,6 +46,9 @@
 |<center> **연차** </center> |  <center> ** 의학 연구 프로젝트 ** </center> |  <center> **PAPER** </center> |
 |:----------|:----------|----------:|
 |2021. 01. ~<br>2021. 03. |  [X-ray 이미지 활용한 상세한 폐렴(COVID-19라벨링 포함) 분류 및 RetinaNet을 활용한 Object Detection](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection)  |[한국정보과학회 KCC2021](https://www.kiise.or.kr/conference/kcc/2021/)|
+|2021. 07. ~<br> ing |  [수혈 데이터 예측 모델 연구]()  |[건양대학교병원 인턴쉽](https://www.kiise.or.kr/conference/kcc/2021/)|
+|2021. 07. ~<br>ing |  [Cascade-BGNN: Toward Efficient Self-supervised
+Representation Learning on Large-scale Bipartite Graphs 구현]()  |[건양대학교병원 인턴쉽](https://www.kiise.or.kr/conference/kcc/2021/)|
 
 
 |  <center> **연차** </center> |  <center> ** Personal 연구 프로젝트 ** </center> |  <center> **PAPER** </center> |
