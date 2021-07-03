@@ -1,15 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width="3000"&section=header&text=Duhyeuk%20Chang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Profile%20CV%20&descAlignY=51&descAlign=62)
 <p align='center'> Division of Computer Engineering </p>
  
-<div style="text-align: center;">
-    <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"
-      target="_blank">
-      <img
-        src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg" />
-    </a>
-  </div>
+
   
  <p align="center">
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjustin95214&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C/C++-4479A1?style=flat-square&logo=C/c++&logoColor=white"/></a>&nbsp 
