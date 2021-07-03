@@ -36,7 +36,7 @@ During this vacation season, I am working as an intern under the theme of "Bipar
 
 Since I was a freshman in college, I have worked part-time in the third service industry, which emphasizes communication with customers in many fields such as clothing, restaurant, horse racing, and cultural life.
 
-Contact : justin214@naver.com / justin95214@gmail.com
+▶ Contact : justin214@naver.com / justin95214@gmail.com
 
 ![JAMES's stats](https://github-readme-stats.vercel.app/api?username=justin95214&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin95214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
