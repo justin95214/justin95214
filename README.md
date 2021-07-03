@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/C/C++-4479A1?style=flat-square&logo=C/c++&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML-2C2255?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/duhyeuk214/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instagram.com/duhyeuk214"/></a>&nbsp
-   <a href="justin95214@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://github.com/justn95214"/></a>&nbsp 
   </p>
+  
 <p align='center'> ML DL CV LightWeight & Optimization Algorithm </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
@@ -35,6 +35,8 @@ The results of research optimized for models in various fields are currently bei
 During this vacation season, I am working as an intern under the theme of "Bipartite Graphical Networks for Efficient Node Presentation Learning" at the laboratory of Konyang University Hospital.
 
 Since I was a freshman in college, I have worked part-time in the third service industry, which emphasizes communication with customers in many fields such as clothing, restaurant, horse racing, and cultural life.
+
+Contact : justin214@naver.com / justin95214@gmail.com
 
 ![JAMES's stats](https://github-readme-stats.vercel.app/api?username=justin95214&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin95214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
