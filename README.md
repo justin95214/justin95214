@@ -15,7 +15,12 @@
 </p>
 
 # [CV](https://github.com/justin95214/justin95214/blob/main/cv.pdf)
-<a href="https://github.com/justin95214/justin95214/blob/main/cv.pdf">CV</a>
+▶ Interested in Research on medical AI field, model LightWeight and Model Optimization
+
+I am Chang Duhyeuk, who studies AI to contribute to actual service and data solutions, applies the academic knowledge of the latest paper to actual development pipelines, and studies the lightness and optimization of medical and model. 
+It is difficult to apply technology to actual academic research projects, but it is also contributing to the improvement of existing methods as a new solution. 
+
+Currently, I am participating in deeper AI field research and various research projects, and I am still working hard to improve my AI field capabilities, and I am about to graduate from the Graduate School of Computer Engineering.
 
 
 ![JAMES's stats](https://github-readme-stats.vercel.app/api?username=justin95214&show_icons=true&theme=radical)
