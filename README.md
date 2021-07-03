@@ -60,7 +60,7 @@
 # With 현업개발자 스터디 
 |  <center> **기간** </center> |  <center> **스터디명** </center> |
 |:----------|:----------|
-|2021. 06. ~<br>2021. 09.(스터디 종료일 유동가능성있음) |  [Linux 실습 스터디]()  |
+|2021. 06. ~<br>2021. 09.(스터디 종료일 유동가능성있음) |  [Linux 실습 스터디](https://github.com/justin95214/Linux-Study/blob/main/README.md)  |
 |2021. 06. ~<br>2021. 09.(스터디 종료일 유동가능성있음) |  [Docker Kubernetes 스터디](https://github.com/justin95214/Docker_Study)  |
 
 # 서브프로젝트 
