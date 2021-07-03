@@ -9,7 +9,9 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C/C++-4479A1?style=flat-square&logo=C/c++&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML-2C2255?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
-  <a href="https://www.instagram.com/duhyeuk214/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instagram.com/duhyeuk214"/></a>&nbsp </p>
+  <a href="https://www.instagram.com/duhyeuk214/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instagram.com/duhyeuk214"/></a>&nbsp
+   <a href="justin95214@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://github.com/justn95214"/></a>&nbsp 
+  </p>
 <p align='center'> ML DL CV LightWeight & Optimization Algorithm </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
