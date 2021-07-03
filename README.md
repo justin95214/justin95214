@@ -22,6 +22,13 @@ It is difficult to apply technology to actual academic research projects, but it
 
 Currently, I am participating in deeper AI field research and various research projects, and I am still working hard to improve my AI field capabilities, and I am about to graduate from the Graduate School of Computer Engineering.
 
+▶ Experience and communication skills
+
+The results of research optimized for models in various fields are currently being held under the theme of dacon convention and deep learning in the medical field with the theme of paper's huge financial activities and graduate students and GAN.
+
+During this vacation season, I am working as an intern under the theme of "Bipartite Graphical Networks for Efficient Node Presentation Learning" at the laboratory of Konyang University Hospital.
+
+Since I was a freshman in college, I have worked part-time in the third service industry, which emphasizes communication with customers in many fields such as clothing, restaurant, horse racing, and cultural life.
 
 ![JAMES's stats](https://github-readme-stats.vercel.app/api?username=justin95214&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin95214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
