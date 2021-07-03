@@ -14,8 +14,8 @@
   <p align='center'> 프로젝트가 완료될 때마다  COMMITS </p>
 </p>
 
-# [CV](https://github.com/justin95214/justin95214/blob/main/cv%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
-<a href="https://github.com/justin95214/justin95214/blob/main/cv%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf">CV</a>
+# [CV](https://github.com/justin95214/justin95214/blob/main/cv.pdf)
+<a href="https://github.com/justin95214/justin95214/blob/main/cv.pdf">CV</a>
 
 
 ![JAMES's stats](https://github-readme-stats.vercel.app/api?username=justin95214&show_icons=true&theme=radical)
