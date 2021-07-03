@@ -57,7 +57,11 @@
 |21. 05.15 ~<br>21. 05.30      |  [Pix2Pix구현](https://github.com/justin95214/Pix2Pix)  |[GAN 공부]|
 |21. 06.06 ~<br>21. 06.19      |  [CycleGAN을 활용한 GTA Video-to-Real Video](https://github.com/justin95214/CycleGAN-GTA-to-Real-Image)  |[GAN 공부]|
 
-
+# With 현업개발자 스터디 
+|  <center> **기간** </center> |  <center> **스터디명** </center> |
+|:----------|:----------|
+|2021. 06. ~<br>2021. 09.(예정) |  [Linux 실습 스터디]()  |
+|2021. 06. ~<br>2021. 09.(예정) |  [Docker Kubernetes 스터디]()  |
 
 # 서브프로젝트 
 |  <center> **연차** </center> |  <center> **프로젝트** </center> |
