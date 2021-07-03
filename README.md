@@ -15,7 +15,7 @@
 </p>
 
 # CV
-<a href="https://github.com/justin95214/justin95214/blob/main/cv.pdf">CV</a>
+<a href="https://github.com/justin95214/justin95214/blob/main/CV%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf">CV</a>
 
 
 ![JAMES's stats](https://github-readme-stats.vercel.app/api?username=justin95214&show_icons=true&theme=radical)
