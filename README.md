@@ -46,7 +46,7 @@ Thank you for using my research!
 1. Title : "Energy Efficient and Real-Time Remote Sensing in AI-Powered Drone" -  https://doi.org/10.1155/2021/6650053
 
 
-# 경력
+# CAREER
 |  <center> **연차** </center> |  <center> **내역** </center> |
 |:----------|:----------|
 |2014. 03. ~<br>2020. 02. |  [한성대학교 컴퓨터공학부]|
@@ -55,7 +55,7 @@ Thank you for using my research!
 |2021. 07. ~<br>ing |  [건양대학교 대학병원 연구실 인턴 (Isys lab 석사 연구 병행)](https://github.com/justin95214/-KY-Intership---blood-transfusion-)  |
 |2021. 08. ~<br>ing |  [ AI-tech 검수 멘토 ](https://boostcamp.connect.or.kr/about.html)  |
 
-# 프로젝트 현황
+# PROJECT LIST
 
 |  <center> **연차** </center> |  <center> ** Optimization 연구 프로젝트 ** </center> |  <center> **PAPER** </center> |
 |:----------|:----------|----------:|
@@ -81,13 +81,13 @@ Thank you for using my research!
 |21. 05.15 ~<br>21. 05.30      |  [Pix2Pix구현](https://github.com/justin95214/Pix2Pix)  |[GAN 공부]|
 |21. 06.06 ~<br>21. 06.19      |  [CycleGAN을 활용한 GTA Video-to-Real Video](https://github.com/justin95214/CycleGAN-GTA-to-Real-Image)  |[GAN 공부]|
 
-# With 현업개발자 스터디 
+# With BUSINESS DEVELOPERS STUDY
 |  <center> **기간** </center> |  <center> **스터디명** </center> |
 |:----------|:----------|
 |2021. 06. ~<br>2021. 09.(스터디 종료일 유동가능성있음) |  [Linux 실습 스터디](https://github.com/justin95214/Linux-Study/blob/main/README.md)  |
 |2021. 06. ~<br>2021. 09.(스터디 종료일 유동가능성있음) |  [Docker Kubernetes 스터디](https://github.com/justin95214/Docker_Study)  |
 
-# 서브프로젝트 
+# SUB-PROJECT
 |  <center> **연차** </center> |  <center> **프로젝트** </center> |
 |:----------|:----------|
 |2019. 03. ~<br>2019. 07. |  [C언어 전공튜터링 튜터](https://github.com/justin95214/justin95214/blob/main/img/%ED%8A%9C%ED%84%B0%EB%A7%81.png)  |
