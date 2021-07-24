@@ -43,7 +43,7 @@ Since I was a freshman in college, I have worked part-time in the third service 
 
 ## Paper Acknowledgement
 Thank you for using my research!
-1. ![Energy Efficient and Real-Time Remote Sensing in AI-Powered Drone] https://doi.org/10.1155/2021/6650053
+1. Energy Efficient and Real-Time Remote Sensing in AI-Powered Drone -  https://doi.org/10.1155/2021/6650053
 
 
 # 경력
