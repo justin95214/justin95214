@@ -41,9 +41,9 @@ Since I was a freshman in college, I have worked part-time in the third service 
 ![JAMES's stats](https://github-readme-stats.vercel.app/api?username=justin95214&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin95214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Paper Acknowledgement
+## Paper Acknowledgement List
 Thank you for using my research!
-1. Energy Efficient and Real-Time Remote Sensing in AI-Powered Drone -  https://doi.org/10.1155/2021/6650053
+1. Title : "Energy Efficient and Real-Time Remote Sensing in AI-Powered Drone" -  https://doi.org/10.1155/2021/6650053
 
 
 # 경력
