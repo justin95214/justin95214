@@ -93,4 +93,12 @@ Thank you for using my research!
 |2019. 03. ~<br>2019. 07. |  [C언어 전공튜터링 튜터](https://github.com/justin95214/justin95214/blob/main/img/%ED%8A%9C%ED%84%B0%EB%A7%81.png)  |
 |2019. 04. ~<br>2019. 12. |  [창업 패키지-SHALLY 개발 담당](https://github.com/justin95214/HTML-PHP-manager-homepage)  |
 
+# PART TIME JOB LIST( for 4years / when i was university student )
+|  <center> **idx** </center> |  <center> **프로젝트** </center> |
+|:----------|:----------|
+|1. |  [이랜드 자연별곡 kitchen/serving](http://www.naturekitchen.co.kr/)  |
+|2. |  [이랜드 스파오 STAFF](http://spao.com/)  |
+|3. |  [한국 마사회 - staff관리직](https://www.kra.co.kr/main.do)  |
+|4. |  [롯데시네마 - 드리미](https://www.lottecinema.co.kr/LCCS/index.aspx)  |
+|5. |  [VIPS](https://www.ivips.co.kr:7002/main.asp)  |
 
