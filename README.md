@@ -96,9 +96,9 @@ Thank you for using my research!
 # PART TIME JOBS LIST( for 4years / when i was university student )
 |  <center> **idx** </center> |  <center> **프로젝트** </center> |
 |:----------|:----------|
-|1. |  [이랜드 자연별곡 kitchen/serving](http://www.naturekitchen.co.kr/)  |
+|1. |  [이랜드 자연별곡 (명동점, 신촌점, 고속터미널점, D타워점)  kitchen/serving](http://www.naturekitchen.co.kr/)  |
 |2. |  [이랜드 스파오 STAFF](http://spao.com/)  |
 |3. |  [한국 마사회 - staff관리직](https://www.kra.co.kr/main.do)  |
 |4. |  [롯데시네마 - 드리미](https://www.lottecinema.co.kr/LCCS/index.aspx)  |
 |5. |  [VIPS](https://www.ivips.co.kr:7002/main.asp)  |
-
+|6. |  [이랜드 피자몰 (홍대점)](https://www.elandeat.com/brandDetail/PM)  |
