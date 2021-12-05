@@ -23,7 +23,7 @@
 # [CV](https://github.com/justin95214/justin95214/blob/main/cv.pdf)
 ▶ Interested in Research on medical AI field, model LightWeight and Model Optimization
 
-I am Chang Duhyeuk, who studies AI to contribute to actual service and data solutions, applies the academic knowledge of the latest paper to actual development pipelines, and studies the lightness and optimization of medical and model. 
+I am Duhyeuk Chang, who studies AI to contribute to actual service and data solutions, applies the academic knowledge of the latest paper to actual development pipelines, and studies the lightness and optimization of medical and model. 
 It is difficult to apply technology to actual academic research projects, but it is also contributing to the improvement of existing methods as a new solution. 
 
 Currently, I am participating in deeper AI field research and various research projects, and I am still working hard to improve my AI field capabilities, and I am about to graduate from the Graduate School of Computer Engineering.
@@ -49,8 +49,8 @@ Thank you for using my research!
 # CAREER
 |  <center> **연차** </center> |  <center> **내역** </center> |
 |:----------|:----------|
-|2014. 03. ~<br>2020. 02. |  한성대학교 컴퓨터공학부|
-|2019. 03. ~<br>2020. 02. |  [한성대학교 ISYS-LAB연구실 학부 연구생 (허준영 교수님)](https://isyslab.github.io/)  |
+|2014. 03. ~<br>2020. 02. |  한성대학교 컴퓨터공학부(study for computer Science in Hansung University )|
+|2019. 03. ~<br>2020. 02. |  [한성대학교 ISYS-LAB연구실 학부 연구생 (허준영 교수)](Master's degree in Computer Science)(https://isyslab.github.io/)  |
 |2020. 03. ~<br>ing~ |  [한성대학교 컴퓨터공학과 석사과정 ISYS-LAB연구실 석사 연구생(허준영 교수님)](https://jyheo.github.io/)  |
 |2021. 07. ~<br>ing |  [건양대학교 대학병원 연구실 인턴 (Isys lab 석사 연구 병행)](https://github.com/justin95214/-KY-Intership---blood-transfusion-)  |
 |2021. 08. ~<br>ing |  [ NAVER BOOSTCAMP - AI-tech 검수 멘토 ](https://boostcamp.connect.or.kr/about.html)  |
