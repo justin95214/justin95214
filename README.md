@@ -50,9 +50,9 @@ Thank you for using my research!
 |  <center> **연차** </center> |  <center> **내역** </center> |
 |:----------|:----------|
 |2014. 03. ~<br>2020. 02. |  한성대학교 컴퓨터공학부(study for computer Science in Hansung University )|
-|2019. 03. ~<br>2020. 02. |  [한성대학교 ISYS-LAB연구실 학부 연구생 (허준영 교수)](Master's degree in Computer Science)(https://isyslab.github.io/)  |
-|2020. 03. ~<br>ing~ |  [한성대학교 컴퓨터공학과 석사과정 ISYS-LAB연구실 석사 연구생(허준영 교수님)](https://jyheo.github.io/)  |
-|2021. 07. ~<br>ing |  [건양대학교 대학병원 연구실 인턴 (Isys lab 석사 연구 병행)](https://github.com/justin95214/-KY-Intership---blood-transfusion-)  |
+|2019. 03. ~<br>2020. 02. |  [한성대학교 ISYS-LAB연구실 학부 연구생 (허준영 교수)](https://isyslab.github.io/)  |
+|2020. 03. ~<br>ing~ |  [한성대학교 컴퓨터공학과 석사과정 ISYS-LAB연구실 석사 연구생(Master's degree in Computer Science)(허준영 교수)](https://jyheo.github.io/)  |
+|2021. 07. ~<br>ing |  [건양대학교 대학병원 연구실 인턴 Intern at Gunyang University University Hospital (Isys lab 석사 연구 병행)](https://github.com/justin95214/-KY-Intership---blood-transfusion-)  |
 |2021. 08. ~<br>ing |  [ NAVER BOOSTCAMP - AI-tech 검수 멘토 ](https://boostcamp.connect.or.kr/about.html)  |
 
 # PROJECT LIST
