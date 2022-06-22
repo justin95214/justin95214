@@ -95,6 +95,8 @@ Thank you for using my research!
 |2019. 03. ~<br>2019. 07. |  [C언어 전공튜터링 튜터](https://github.com/justin95214/justin95214/blob/main/img/%ED%8A%9C%ED%84%B0%EB%A7%81.png)  |
 
 # 예비 창업 패키지
+|  <center> **연차** </center> |  <center> **창업명** </center> |
+|:----------|:----------|
 |2019. 04. ~<br>2019. 12. |  [창업 패키지-SHALLY 개발 담당](https://github.com/justin95214/HTML-PHP-manager-homepage)  |
 |2022. 05. ~<br>~ING |  [창업 패키지-SEEWE CDO 담당]()  |
 
