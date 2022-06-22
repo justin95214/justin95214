@@ -68,7 +68,7 @@ Thank you for using my research!
 |2020. 02. ~<br>2020.05     |  [초분광 이미지 픽셀 분류를 위한 이산 범위 기반의 최적 밴드 선택(Band Selection) 연구](https://github.com/justin95214/HyperSpectral-Image-Band-Selection-Algorithm)  |[한국정보과학회 KCC2021](https://github.com/justin95214/HyperSpectral-Image-Band-Selection-Algorithm/blob/master/kcc2021_ppt.pdf)|
 |2020. 06. ~<br>ing       |  [초분광 Corning 카메라 탑재 드론 IoT oneM2M 네트워크 데이터 전송 및 제어  ](https://github.com/justin95214/IoT-oneM2M)  |[진행중]()|
 
-|<center> **연차** </center> |  <center> ** 의학 연구 프로젝트 ** </center> |  <center> **PAPER** </center> |
+|<center> **연차** </center> |  <center> ** 의학 연구 프로젝트 ** </center> |  <center> **PAPER/ ORGANIZATION** </center> |
 |:----------|:----------|----------:|
 |2021. 01. ~<br>2021. 03. |  [X-ray 이미지 활용한 상세한 폐렴(COVID-19라벨링 포함) 분류 및 RetinaNet을 활용한 Object Detection](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection)  |[한국정보과학회 KCC2021](https://www.kiise.or.kr/conference/kcc/2021/)|
 |2021. 07. ~<br> ing |  [수혈 데이터 예측 모델 연구](https://github.com/justin95214/-KY-Intership---blood-transfusion-)  |[건양대학교병원 인턴쉽]()|
