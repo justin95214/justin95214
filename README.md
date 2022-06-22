@@ -55,7 +55,7 @@ Thank you for using my research!
 |2021. 07. ~<br>ing |  [건양대학교 대학병원 연구실 인턴 Intern at Gunyang University University Hospital (Isys lab 석사 연구 병행)](https://github.com/justin95214/-KY-Intership---blood-transfusion-)  |
 |2021. 08. ~<br>ing |  [ NAVER BOOSTCAMP - AI-tech Inspection Mentor ](https://boostcamp.connect.or.kr/about.html)  |
 |2021. 12. ~<br>2022.04 |  [ 팀스파르타 Machine Learning Mentor ](https://online.spartacodingclub.kr/)  |
-|2022. 07. ~<br>2022.08 |  [ 현대자동차 H 모빌리티 클래스 교육생 ]([https://online.spartacodingclub.kr](https://h-class.hyundai-ngv.com/main/index.jsp)/)  |
+|2022. 07. ~<br>2022.08 |  [ 현대자동차 H 모빌리티 클래스 교육생 ](https://h-class.hyundai-ngv.com/main/index.jsp/)  |
 
 # PROJECT LIST
 
