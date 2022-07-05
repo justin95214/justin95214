@@ -75,6 +75,7 @@ Thank you for using my research!
 |2021. 07. ~<br> ing |  [수혈 데이터 예측 모델 연구](https://github.com/justin95214/-KY-Intership---blood-transfusion-)  |[건양대학교병원 인턴쉽]()|
 |2021. 07. ~<br> ing |  [Cascade-BGNN: Toward Efficient Self-supervised Representation Learning on Large-scale Bipartite Graphs 연구]()  |[스터디]()|
 |2022. 01. ~<br>2022. 04. |  [웹 크롤링을 활용한 다양한 자동화 어플리케이션](https://github.com/justin95214/automation-applications-web-crawling#automation-applications-web-crawling)  |[그린써브 회사 프로젝트](http://www.greenserve.co.kr/default/)|
+|2022. 05. ~<br>ing. |  [A*알고리즘을 활용한 물류 라우팅 스케줄링 시뮬레이션 프로그램](https://github.com/justin95214/Simulation-Program-Using-Optimal-Path-A-Algorithm)  |[KCTC 프로젝트]()|
 
 
 |  <center> **연차** </center> |  <center> ** Personal 연구 프로젝트 ** </center> |  <center> **PAPER** </center> |
