@@ -57,6 +57,11 @@ Thank you for using my research!
 |2021. 12. ~<br>2022.04 |  [ 팀스파르타 Machine Learning Mentor ](https://online.spartacodingclub.kr/)  |
 |2022. 07. ~<br>2022.08 |  [ 현대자동차 H 모빌리티 클래스 교육생 ](https://h-class.hyundai-ngv.com/main/index.jsp/)  |
 
+# LECTURE
+- 2021.12. - 산업전문인력 AI역량강화지원사업 중간관리자 4과정, AI기반 물류운영 모델 개발 강의
+- 2022.06.24/27 - 스마트 물류 실무자 인력 양성 과정 ML/DL 실습강사
+
+
 # PROJECT LIST
 
 |  <center> **연차** </center> |  <center> ** Optimization 연구 프로젝트 ** </center> |  <center> **PAPER** </center> |
