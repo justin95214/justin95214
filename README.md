@@ -53,7 +53,7 @@ Thank you for using my research!
 |2019. 03. ~<br>2020. 02. |  [한성대학교 ISYS-LAB연구실 학부 연구생 (허준영 교수)](https://isyslab.github.io/)  |
 |2020. 03. ~<br>ing~ |  [한성대학교 컴퓨터공학과 석사과정 ISYS-LAB연구실 석사 연구생(Master's degree in Computer Science)(허준영 교수)](https://jyheo.github.io/)  |
 |2021. 07. ~<br>ing |  [건양대학교 대학병원 연구실 인턴 Intern at Gunyang University University Hospital (Isys lab 석사 연구 병행)](https://github.com/justin95214/-KY-Intership---blood-transfusion-)  |
-|2021. 08. ~<br>ing |  [ NAVER BOOSTCAMP - AI-tech Inspection Mentor ](https://boostcamp.connect.or.kr/about.html)  |
+|2021. 08. ~<br>ing |  [ NAVER BOOSTCAMP - AI-tech Inspection Mentor ](https://github.com/boostcampaitech2/Overview)  |
 |2021. 12. ~<br>2022.04 |  [ 팀스파르타 Machine Learning Mentor ](https://online.spartacodingclub.kr/)  |
 |2022. 07. ~<br>2022.08 |  [ 현대자동차 H 모빌리티 클래스 교육생 ](https://h-class.hyundai-ngv.com/main/index.jsp/)  |
 
