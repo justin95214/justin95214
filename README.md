@@ -91,6 +91,8 @@ Thank you for using my research!
 |20.06. 07. ~<br>20. 06. 28. |  [SMID 연산으로 통해 ANN 구현 및 python- ANN모듈 분석 비교](https://github.com/justin95214/Intel-SIMD)  |[SIMD 연산 공부]|
 |21. 05.15 ~<br>21. 05.30      |  [Pix2Pix구현](https://github.com/justin95214/Pix2Pix)  |[GAN 공부]|
 |21. 06.06 ~<br>21. 06.19      |  [CycleGAN을 활용한 GTA Video-to-Real Video](https://github.com/justin95214/CycleGAN-GTA-to-Real-Image)  |[GAN 공부]|
+|22. 10.09 ~<br>22. 10.13      |  [CycleGAN을 활용한 Male-to-Female Video](https://github.com/justin95214/smile_gate_Gender_Swap)  |[GAN 공부]|
+
 
 # With BUSINESS DEVELOPERS STUDY
 |  <center> **기간** </center> |  <center> **스터디명** </center> |
