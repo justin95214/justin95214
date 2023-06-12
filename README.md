@@ -84,7 +84,7 @@ Thank you for using my research!
 |:----------|:----------|----------:|
 |2022. 01. ~<br>2022. 04. |  [웹 크롤링을 활용한 다양한 자동화 어플리케이션](https://github.com/justin95214/automation-applications-web-crawling#automation-applications-web-crawling)  |[그린써브 회사 컨설팅](http://www.greenserve.co.kr/default/)|
 |2022. 05. ~<br>ing. |  [A*알고리즘을 활용한 물류 라우팅 스케줄링 시뮬레이션 프로그램](https://github.com/justin95214/Simulation-Program-Using-Optimal-Path-A-Algorithm)  |[KCTC 컨설팅]()|
-
+|2022. 05. ~<br>ing. |  [Logistics 물류 관련 다양한 알고리즘 프로그램 개발](https://github.com/justin95214/logistics_colab_code.git)  |[]()|
 
 |  <center> **연차** </center> |  <center> ** Personal 연구 프로젝트 ** </center> |  <center> **PAPER** </center> |
 |:----------|:----------|----------:|
