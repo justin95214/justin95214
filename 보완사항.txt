@@ -1,0 +1,10 @@
+학위 논문 : 임베디드 시스템에서 초분광 이미지 전처리를 위한 효율적인 밴드 선택 기법 
+(Efficient Band Selection for Hyperspectral Image Preprocessing in Embedded Systems)
+
+역량 :
+1. 임상 논문 리뷰를 통해, 환자의 바이탈을 활용한 시계열분석을 통한 개선된 성능의 탐지/예측한 경험이 있음
+2. 딥러닝 라이브러리 pytorch, tensorflow 경험이 있음
+3. X-ray 이미지 프로젝트 경험과 현직장에서 C++을 활용하여 OpenCV 영상처리 경험이 있음
+4. Tflite/ONNX를 활용하여 라즈베리파이에서 모델 가중치를 Float32비트에서 INT8/ float 16 비트로 model light 분석 경험이 있음
+5. 프로젝트를 통해 새로운 기술 습득이 빠름
+
