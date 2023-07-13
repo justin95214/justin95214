@@ -54,8 +54,8 @@ Thank you for using my research!
 |2020. 03. ~<br>2022. 02. |  [한성대학교 컴퓨터공학과 석사과정 ISYS-LAB연구실 (Master's degree in Computer Science)(허준영 교수)](https://jyheo.github.io/)  |
 |2021. 07. ~<br>2021. 11. |  [건양대학교 대학병원 연구실 -연구원 Intern at Gunyang University University Hospital (Isys lab 석사 연구 병행)](https://github.com/justin95214/-KY-Intership---blood-transfusion-)  |
 |2021. 08. ~<br>2021. 12. |  [ NAVER BOOSTCAMP - AI-tech Inspection Mentor ](https://github.com/boostcampaitech2/Overview)  |
-|2021. 12. ~<br>2022.04 |  [ 팀스파르타 - Machine Learning Mentor ](https://online.spartacodingclub.kr/)  |
-|2022. 07. ~<br>2022.08 |  [ 현대자동차 H 모빌리티 클래스 - 교육 수료 ](https://h-class.hyundai-ngv.com/main/index.jsp/)  |
+|2021. 12. ~<br>2022. 04. |  [ 팀스파르타 - Machine Learning Mentor ](https://online.spartacodingclub.kr/)  |
+|2022. 07. ~<br>2022. 10. |  [ 현대자동차 H 모빌리티 클래스 - 교육 수료 ](https://h-class.hyundai-ngv.com/main/index.jsp/)  |
 |2022. 12. ~<br>~ing |  [ 농심 엔지니어링 - 지능화사업본부 SW 엔지니어 ](http://www.nongshimeng.com/html/)  |
 
 # LECTURE
