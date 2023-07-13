@@ -111,7 +111,7 @@ Thank you for using my research!
 |2019. 04. ~<br>2019. 12. |  [창업 패키지-SHALLY 개발 담당](https://github.com/justin95214/HTML-PHP-manager-homepage)  |
 |2022. 05. ~<br>~ING |  [창업 패키지-SEEWE CDO 담당]()  |
 
-# PART TIME JOBS LIST( for 4years / when i was university student )
+# PART TIME JOBS LIST
 |  <center> **idx** </center> |  <center> **프로젝트** </center> |
 |:----------|:----------|
 |1. |  [이랜드 자연별곡 (명동점, 신촌점, 고속터미널점, D타워점)  kitchen/serving](http://www.naturekitchen.co.kr/)  |
