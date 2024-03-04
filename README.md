@@ -38,8 +38,6 @@ Since I was a freshman in college, I have worked part-time in the third service 
 
 ▶ Contact : justin214@naver.com / justin95214@gmail.com
 
-![JAMES's stats](https://github-readme-stats.vercel.app/api?username=justin95214&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin95214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Paper Acknowledgement List
 Thank you for using my research!
